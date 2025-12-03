@@ -12,6 +12,7 @@ const createWindow = () => {
   })
 
   // win.loadFile('index.html')
+  console.log('mcp-share');
   
   win.loadURL('https://iopsit.midea.com/frontweb-iop/training-robot-pc/knowledge');
   // 开发阶段打开调试工具
